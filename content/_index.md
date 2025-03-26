@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Homepage"
-date: 2022-10-24
+title: " "
+date: 2025-03-26
 type: landing
 
 design:
@@ -22,23 +22,13 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
+        #image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  
+          #filename: stacked-peaks.svg
+          #filters:
+            #brightness: 1.0
+          #size: cover
+          #position: center
+          #parallax: false
+
 ---

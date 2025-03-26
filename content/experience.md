@@ -1,6 +1,6 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: 'CV'
+date: 2025-03-26
 type: landing
 
 design:

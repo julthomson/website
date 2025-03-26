@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Research'
 date: 2024-05-19
 type: landing
 
@@ -20,4 +20,15 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 ---
