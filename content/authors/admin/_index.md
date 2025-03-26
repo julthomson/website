@@ -3,7 +3,7 @@
 title: Julianna J. Thomson
 
 # Name pronunciation (optional)
-name_pronunciation: Julianna Thomson
+#name_pronunciation: Julianna Thomson
 
 # Full name (for SEO)
 first_name: Julianna
