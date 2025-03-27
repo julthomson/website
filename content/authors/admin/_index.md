@@ -33,10 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jthomso4@gmu.edu'
     label: E-mail Me
-  - #icon: brands/x
-    #url: https://twitter.com/julthomson
-  - #icon: brands/github
-    #url: https://github.com/julthomson
+  - icon: brands/x
+    url: https://twitter.com/julthomson
+  - icon: brands/github
+    url: https://github.com/julthomson
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/julthomson
   - icon: academicons/orcid
