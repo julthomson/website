@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:jthomso4@gmu.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/julthomson
+    url: https://www.linkedin.com/in/julianna-thomson
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-4290-7607
 
@@ -55,4 +55,4 @@ education:
 
 ## About Me
 
-I am a PhD student in the political science program and a Presidential Scholar at George Mason University. 
+I am a Presidential Scholar and PhD candidate in the Political Science program at George Mason University. 
