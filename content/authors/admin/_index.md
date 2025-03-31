@@ -64,4 +64,4 @@ I received my Bachelor of Arts in Religion from Dartmouth College and my Master 
 
 Outside of academia, I am passionate about college athletics and sports. As a former Division I student-athlete, I believe in the power of teamwork, discipline, and resilience, qualities that have shaped both my academic and professional pursuits. I remain involved in collegiate athletics as a volunteer coach at the Division I level, where I strive to foster holistic student development both on and off the field. 
 
-I love meeting new people and exchanging ideas. If you'd like to chat about research, academia, athletics, or anything in between, feel free to reach out via email at jthomso4@gmu.edu. 
+I love meeting new people and exchanging new ideas. If you'd like to chat about research, academia, athletics, or anything in between, feel free to reach out via email at jthomso4@gmu.edu. 
