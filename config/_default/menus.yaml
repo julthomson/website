@@ -10,9 +10,9 @@ main:
   #- name: Papers
     #url: /#papers
     #weight: 2
-  #- name: CV
-    #url: experience/
-    #weight: 3
+  - name: CV
+    url: experience/
+    weight: 3
   #- name: Research
     #url: projects/
     #weight: 4
