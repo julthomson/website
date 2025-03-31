@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: " "
 type: "page"
 draft: false
 layout: "blank"
