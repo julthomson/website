@@ -7,6 +7,13 @@ layout: "blank"
 
 design:
   spacing: "5rem"
+
+sections:
+  - block: resume-biography-3
+    content:
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
 ---
 <a href="/uploads/resume.pdf" class="btn btn-primary">Download CV</a>
 
