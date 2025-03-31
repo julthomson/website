@@ -1,10 +1,12 @@
 ---
-title: ''
-type: landing
+title: "CV"
+date: 2025-03-26
+type: "page"
 draft: false
 
 design:
-  spacing: '5rem'
+  spacing: "5rem"
 ---
+<a href="/uploads/resume.pdf" class="btn btn-primary">Download CV</a>
 
- <iframe src="/uploads/resume.pdf" width="100%" height="600px"></iframe>   
+<iframe src="/uploads/resume.pdf" width="100%" height="600px"></iframe>
