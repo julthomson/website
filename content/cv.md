@@ -3,6 +3,7 @@ title: "CV"
 date: 2025-03-26
 type: "page"
 draft: false
+layout: "blank"
 
 design:
   spacing: "5rem"
