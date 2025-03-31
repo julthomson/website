@@ -11,7 +11,7 @@ main:
     #url: /#papers
     #weight: 2
   - name: CV
-    url: experience/
+    url: cv/
     weight: 3
   #- name: Research
     #url: projects/
