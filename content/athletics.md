@@ -12,7 +12,7 @@ design:
   spacing: "5rem"
 ---
 
-As a Division I track and field athlete, I competed in the throwing events at Dartmouth College and later as a graduate transfer at Villanova University. My time in collegiate athletics taught me the importance of resilience, discipline, and leadership—qualities that continue to shape my academic and professional life.
+As a Division I track and field athlete, I competed in the throwing events at Dartmouth College and later as a graduate transfer at Villanova University. My time in collegiate athletics taught me the importance of resilience, discipline, and leadership - qualities that continue to shape my academic and professional life.
 
 At Villanova, I was a BIG EAST champion in the discus throw and part of the 2021 BIG EAST championship team. I also competed in the 2020 Canadian Olympic and Paralympic Trials (held in 2021 due to COVID-19), qualifying in both the discus and shot put.
 
