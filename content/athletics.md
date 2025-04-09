@@ -20,6 +20,6 @@ Today, I stay connected to the sport through volunteer coaching roles at George 
 
 Athletics has deeply informed my understanding of leadership, motivation, and institutional culture. These are topics I also explore in my academic work.
 
-I talk about my journey through sport, identity, and academics in this podcast appearance:  
+I talk about my journey through sport, identity, and academics in this two-part podcast appearance:  
 **[Raising Athletes – Jul Thomson, Former Dartmouth and Villanova Track and Field Athlete](https://open.spotify.com/episode/6iCrNJbPHLhJ5LAEp66Nq1?si=b39b02ae24d441df)**
 
