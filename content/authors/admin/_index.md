@@ -58,7 +58,7 @@ education:
 
 I am a third-year PhD candidate and Presidential Scholar in the Political Science program at the Schar School of Policy and Government at George Mason University. 
 
-Using quantitative text analysis, my dissertation examines why American political elites continue to use religious rhetoric in an era of declining religiosity. I analyze how institutional roles, partisanship, and shifting religious demographics shape the rhetorical strategies of the president and Congress, as well as the broader implications of religious language in policy debates and public opinion. Beyond my dissertation, my research interests include religion and politics, political communication, and the intersection of sports and politics.
+Using quantitative text analysis, my research examines why American political elites continue to use religious rhetoric in an era of declining religiosity. I analyze how institutional roles, partisanship, and shifting religious demographics shape the rhetorical strategies of the president and Congress, as well as the broader implications of religious language in policy debates and public opinion. Beyond this work, my research interests include religion and politics, political communication, and the intersection of sports and politics.
 
 I received my BA in Religion from Dartmouth College and my MBA from Villanova University. Studying religion at a liberal arts institution deepened my understanding of history, philosophy, and culture, reinforcing my appreciation for critical thinking and broad-based inquiry. Meanwhile, my MBA equipped me with analytical and research skills that complement my work in academia. 
 
