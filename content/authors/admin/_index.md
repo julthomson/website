@@ -58,10 +58,8 @@ education:
 
 I am a third-year PhD candidate and Presidential Scholar in the Political Science program at the Schar School of Policy and Government at George Mason University. 
 
-Using quantitative text analysis, my research examines why American political elites continue to use religious rhetoric in an era of declining religiosity. I analyze how institutional roles, partisanship, and shifting religious demographics shape the rhetorical strategies of the president and Congress, as well as the broader implications of religious language in policy debates and public opinion. Beyond this work, my research interests include religion and politics, political communication, and the intersection of sports and politics.
+Using quantitative text analysis, my research examines why American political elites continue to use religious rhetoric in an era of declining religiosity. I analyze how institutional roles, partisanship, and shifting religious demographics shape the rhetorical strategies of the president and Congress, as well as the broader implications of religious language in policy debates and public opinion. My broader academic interests include political communication and the intersection of politics and sports.
 
-I received my BA in Religion from Dartmouth College and my MBA from Villanova University. Studying religion at a liberal arts institution deepened my understanding of history, philosophy, and culture, reinforcing my appreciation for critical thinking and broad-based inquiry. Meanwhile, my MBA equipped me with analytical and research skills that complement my work in academia. 
-
-Outside of academia, I am passionate about college athletics and sports. As a former Division I student-athlete, I believe in the power of teamwork, discipline, and resilience, qualities that have shaped both my academic and professional pursuits. I remain involved in collegiate athletics as a volunteer coach at the Division I level, where I strive to foster holistic student development both on and off the field. 
+Prior to my doctoral studies, I earned a BA in Religion from Dartmouth College and an MBA from Villanova University. I also competed as a Division I student-athlete. My athletic career instilled in me a belief in the power of teamwork, discipline, and resilience, and these qualities continue to shape my academic and professional pursuits.
 
 I love meeting new people and exchanging new ideas. If you'd like to chat about research, academia, athletics, or anything in between, feel free to reach out via email at jthomso4@gmu.edu. 
