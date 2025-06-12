@@ -44,7 +44,7 @@ interests:
   - Computational Methods
 
 education:
-  - area: PhD, Political Science
+  - area: PhD Candidate, Political Science
     institution: George Mason University University
   - area: Master of Business Administration
     institution: Villanova University
