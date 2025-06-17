@@ -40,6 +40,7 @@ profiles:
 
 interests:
   - Religion and Politics
+  - Identity Politics
   - Political Communication
   - Computational Methods
 
