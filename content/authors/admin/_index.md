@@ -35,8 +35,10 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/julianna-thomson
+    label: LinkedIn Page
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-4290-7607
+    label: OrchID
 
 interests:
   - Religion and Politics
