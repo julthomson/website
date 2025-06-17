@@ -13,9 +13,9 @@ main:
   #- name: Dissertation
     #url:
     #weight: 3
-  #- name: Research
-    #url: research/
-    #weight: 4
+  - name: Research
+    url: research/
+    weight: 3
   #- name: Papers
     #url: /#papers
     #weight: 5
@@ -24,6 +24,6 @@ main:
     #weight: 6
   - name: Athletics
     url: athletics/
-    weight: 7
+    weight: 4
 
     

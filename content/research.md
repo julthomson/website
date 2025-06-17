@@ -1,7 +1,12 @@
 ---
-title: 'Research'
-date: 2024-05-19
-type: landing
+title: "Research"
+type: "page"
+draft: false
+layout: "blank"
+reading_time: false
+share: false
+pager: false
+backlinks: false
 
 design:
   # Section spacing
