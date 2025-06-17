@@ -38,7 +38,7 @@ profiles:
     label: LinkedIn Page
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-4290-7607
-    label: OrchID
+    label: ORCHID
 
 interests:
   - Religion and Politics
