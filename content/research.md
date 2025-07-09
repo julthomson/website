@@ -9,7 +9,7 @@ pager: false
 backlinks: false
 ---
 
-Welcome to my research page! My research focuses on American political institutions, religious rhetoric, and elite behavior. I use a combination of quantitative text analysis, archival research, and case studies to explore how religion intersects with political communication and policymaking.
+Welcome to my research page! 
 
 <br>
 
