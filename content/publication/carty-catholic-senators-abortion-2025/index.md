@@ -1,83 +1,28 @@
 ---
 title: 'Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted Kennedy'
-
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Thomas J Carty
-- Julianna J Thomson
-
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
-author_notes: []
-
-date: '2025-01-01'
-
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-07-09T21:15:57.041779Z'
-
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+- Thomas J. Carty
+- admin
+date: '2025-06-25'
+share: false
+profile: false
+pager: false
+show_related: false
+show_date: false
+reading_time: false
 publication_types:
 - chapter
-
 # Publication name and optional abbreviated publication name.
-publication: '*Religion and Congress: the intersection of faith and politics*'
-publication_short: ''
+publication: 'In *Religion and Congress: the intersection of faith and politics*, edited by David A. Dulio and Colton C. Campbell'
 
-doi: ''
-
-abstract: \"Examines the complex relationship between faith and politics in the US
-  Congress, focusing on its historical foundations, contemporary congressional behavior,
-  and policy outcomes\"--
-
-# Summary. An optional shortened abstract.
-summary: ''
-
-tags:
-- Religion
-- Church and state
-- Politics and government
-- Congress
-- United States
-- Legislators
-- Religion and politics
-- Religious life
-- Chaplains
+abstract: Examines the complex relationship between faith and politics in the US Congress, focusing on its historical foundations, contemporary congressional behavior,and policy outcomes.
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - name: "Link to Book"
+    url: "https://www.rienner.com/title/Religion_and_Congress_The_Intersection_of_Faith_and_Politics"
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
