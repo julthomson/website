@@ -14,7 +14,7 @@ I study religion and politics in the context of American national institutions, 
 
 <h3>Dissertation</h3>
 
-**Title**: *Sacred Speech in a Secularizing Society: Congress, the President, and the Politics of Religious Rhetoric* 
+**Title**: Sacred Speech in a Secularizing Society: Congress, the President, and the Politics of Religious Rhetoric
 
 **Committee**: [Mark Rozell](https://markrozell.gmu.edu/), [James Pfiffner](https://pfiffner.gmu.edu/), [Robert McGrath](https://mcgrath.gmu.edu/), [Kendrick Kuo](https://kendrickkuo.com/)
 
