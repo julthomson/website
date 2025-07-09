@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 type: "page"
 draft: false
 layout: "blank"
