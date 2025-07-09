@@ -1,11 +1,11 @@
 .page.citation .page-title {
   text-align: left !important;
 }
-/* Force the Publications title to left-align */
-.page-title-container {
-  justify-content: flex-start !important;
-}
 /* Force Publications page title container to left-align */
 .max-w-prose.flex.justify-center {
   justify-content: flex-start !important;
+}
+.max-w-prose {
+  max-width: 700px !important; /* Adjust this value as you like */
+  margin-left: 0 !important;
 }
