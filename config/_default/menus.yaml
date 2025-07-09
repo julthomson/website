@@ -6,11 +6,13 @@
 main:
   - name: About Me
     url: /
+    identifier: about
     weight: 10
-    children:
-      - name: Athletics
-        url: athletics/
-        weight: 10
+
+  - name: Athletics
+    parent: about
+    url: about/athletics/
+    weight: 20
 
   - name: CV
     url: cv/
