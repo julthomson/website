@@ -59,5 +59,4 @@ features:
   privacy_pack:
     enable: false
 
-customCSS:
-  - css/custom.css
+customCSS: [css/custom.css]

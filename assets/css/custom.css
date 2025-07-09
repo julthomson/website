@@ -1,4 +1,3 @@
-/* Reduce font size for main content area */
-.article-container {
-  font-size: 14px; /* You can try 15px or 14px if this is still too big */
+.page-header .page-title {
+  text-align: left;
 }
