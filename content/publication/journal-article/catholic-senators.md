@@ -23,4 +23,11 @@ publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: "In *Religion and Congress: The Intersection of Faith and Politics*, edited by David A. Dulio and Colton C. Campbell"
 
+# links:
+- name: "Link to Book"
+   url: "https://www.rienner.com/title/Religion_and_Congress_The_Intersection_of_Faith_and_Politics"
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SNSUMU'
+
 ---
