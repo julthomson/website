@@ -6,18 +6,22 @@
 main: 
   - name: About Me
     url: /
-    weight: 1
+    weight: 10
   - name: CV
     url: cv/
-    weight: 2
+    weight: 20
   - name: Research
     url: research/
-    weight: 3
+    weight: 30
+  - name: "Publications"
+    url: "/publications"
+    parent: "Research"
+    weight: 40
   #- name: Teaching
     #url: teaching/
-    #weight: 6
+    #weight: 50
   - name: Athletics
     url: athletics/
-    weight: 4
+    weight: 60
 
     
