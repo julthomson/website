@@ -59,7 +59,7 @@ education:
 
 ## About Me
 
-I am a third-year PhD candidate and Presidential Scholar in the Political Science program at the Schar School of Policy and Government at George Mason University. 
+I am a fourth-year PhD candidate and Presidential Scholar in the Political Science program at the Schar School of Policy and Government at George Mason University. 
 
 Using quantitative text analysis and survey experiments, my research examines why American political elites continue to use religious rhetoric in an era of declining religiosity. I analyze how institutional roles, partisanship, and shifting religious demographics shape the rhetorical strategies of the president and Congress, as well as the implications of religious language in policy debates and public opinion. My broader academic interests include identity politics, political communication, and computational methods. My research has been supported by George Mason University's Office of the Provost Presidential Scholar progam and the Daniel Druckman Fellowship. 
 

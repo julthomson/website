@@ -10,9 +10,9 @@ main:
   - name: CV
     url: cv/
     weight: 2
-  #- name: Research
-    #url: research/
-    #weight: 3
+  - name: Research
+    url: research/
+    weight: 3
   #- name: Teaching
     #url: teaching/
     #weight: 6
