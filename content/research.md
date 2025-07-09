@@ -23,15 +23,15 @@ In an era of significant religious disaffiliation in America, the enduring and n
   <div style="flex: 1; min-width: 250px;">
     <h3>Works in Progress</h3>
     <p>
-      - The Christian Right: What Everyone Needs to Know (with Mark Rozell and Clyde Wilcox)  
+      - The Christian Right: What Everyone Needs to Know (with [Mark Rozell](https://markrozell.gmu.edu/) and [Clyde Wilcox](https://gufaculty360.georgetown.edu/s/contact/00336000014Rd1RAAS/clyde-clyde-wilcox))  
     </p>
     <p>
-      - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with Georgios Zacharias)
+      - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with [Georgios Zacharias](https://www.researchgate.net/profile/Georgios-Zacharias-3))
     </p>
     <p>  
-      - “The State of NCAA Student Athletes' Voting, Civi Engagment, and Community Leadership” (with Cammie Jo Bolin)
+      - “The State of NCAA Student Athletes' Voting, Civi Engagment, and Community Leadership” (with [Cammie Jo Bolin](https://www.cammiejobolin.com/))
     </p>  
-      - “God and War on Capitol Hill” (with Andrew Kenealy)
+      - “God and War on Capitol Hill” (with [Andrew Kenealy](https://sites.google.com/view/andrewkenealy/about))
     </p>
   </div>
 
