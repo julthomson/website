@@ -1,4 +1,4 @@
 /* Reduce font size for main content area */
 .article-container {
-  font-size: 16px; /* You can try 15px or 14px if this is still too big */
+  font-size: 14px; /* You can try 15px or 14px if this is still too big */
 }
