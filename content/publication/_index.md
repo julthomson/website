@@ -9,7 +9,6 @@ pager: false
 backlinks: false
 show_date: false
 backlinks: false
-# View.
-view: citation
-
 ---
+
+{{< citations >}}
