@@ -3,6 +3,9 @@ title: 'Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted 
 authors:
 - Thomas J. Carty
 - admin
+author_notes:
+- "Springfield College"
+- ""
 date: '2025-06-25'
 share: false
 profile: false

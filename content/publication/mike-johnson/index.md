@@ -4,6 +4,9 @@ title: 'Sacred Speech: analyzing the influence of congressional leadership on re
 authors:
 - admin
 - Alena Smith
+author_notes:
+- ""
+- "Stanford University"
 date: '2025-01-01'
 share: false
 profile: false
