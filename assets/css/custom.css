@@ -1,4 +1,8 @@
 .page.citation .page-title {
   text-align: left !important;
 }
+/* Force the Publications title to left-align */
+.page-title-container {
+  justify-content: flex-start !important;
+}
 

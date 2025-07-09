@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Curriculum Vitae"
 type: "page"
 draft: false
 layout: "blank"

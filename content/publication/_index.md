@@ -9,7 +9,7 @@ pager: false
 backlinks: false
 show_date: false
 backlinks: false
-
+class: "page-title-container"
 # View.
 view: citation
 
