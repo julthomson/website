@@ -1,8 +1,8 @@
 ---
 title: "Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted Kennedy"
 authors:
-- admin
 - Thomas J. Carty
+- admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
