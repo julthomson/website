@@ -12,6 +12,7 @@ share: false
 profile: false
 pager: false
 show_related: false
+show_date: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2025"

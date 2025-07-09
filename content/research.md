@@ -7,6 +7,7 @@ reading_time: false
 share: false
 pager: false
 backlinks: false
+show_date: false
 ---
 
 Welcome to my research page! 

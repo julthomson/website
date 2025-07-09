@@ -12,6 +12,7 @@ share: false
 profile: false
 pager: false
 show_related: false
+show_date: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*Politics and Religion* (forthcoming)"
