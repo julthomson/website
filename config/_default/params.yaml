@@ -8,6 +8,9 @@ appearance:
   mode: system
   color: teal
 
+font:
+  font_size: m
+
 # SEO
 marketing:
   seo:
