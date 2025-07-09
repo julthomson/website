@@ -11,4 +11,4 @@ show_date: false
 backlinks: false
 ---
 
-{{< blox id="citation" >}}
+{{< blox id="publication" >}}
