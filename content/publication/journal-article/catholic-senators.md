@@ -8,6 +8,10 @@ author_notes:
 - "Equal contribution"
 date: ""
 doi: ""
+share: false
+profile: false
+pager: false
+show_related: false
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2025"

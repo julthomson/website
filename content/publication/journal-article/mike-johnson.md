@@ -8,6 +8,10 @@ author_notes:
 - "Equal contribution"
 date: ""
 doi: ""
+share: false
+profile: false
+pager: false
+show_related: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*Politics and Religion* (forthcoming)"
