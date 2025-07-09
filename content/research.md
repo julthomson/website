@@ -36,7 +36,7 @@ Welcome to my research page!
       [<a href="/publication/journal-article/catholic-senators/">Read</a>]
     </p>
     <p>
-    Additional publications and working papers are listed <a href="/publication/">here</a>.
+    Additional publications and working papers are listed <a href="/publication/">on the Publications Page</a>.
   </p>
   </div>
 
