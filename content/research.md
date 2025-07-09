@@ -10,7 +10,6 @@ backlinks: false
 show_date: false
 backlinks: false
 ---
-
 I study religion and politics in the context of American national institutions, with a focus on how identity (particularly religious identity) shapes political rhetoric and representation in the presidency and Congress. My research asks how political elites use religious language, how institutions structure that rhetoric, and what this means for democratic representation. Methodologically, I use computational text analysis to examine elite speech across different platforms and institutional settings. In addition to my primary research agenda, I am also interested in broader questions of identity and politics, including the intersection of politics with sports and military affiliation.You can learn more about my published work <a href="/publication/">on the Publications Page</a>.
 
 <h3>Dissertation</h3>
