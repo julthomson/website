@@ -18,7 +18,7 @@ Welcome to my research page! My research focuses on American political instituti
   <div style="flex: 1; min-width: 250px;">
     <h3>Dissertation</h3>
     <p>
-      My dissertation, <em>"Sacred Speech in a Secularizing Society: Congress, the President, and the Politics of Religious Rhetoric"</em>, examines how institutional roles and public religiosity shape elite use of religious language. I use a mixed-methods design to analyze presidential and congressional speech across two administrations.
+      [More on this project coming soon.]
     </p>
     <p>
       [More on this project coming soon.]
@@ -33,15 +33,19 @@ Welcome to my research page! My research focuses on American political instituti
       [<a href="/publication/journal-article/mike-johnson/">Read</a>]
     </p>
     <p>
-      Additional publications and working papers are listed <a href="/publication/">here</a>.
+      <strong>“Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted Kennedy” (with Thomas Carty) <br>
+      In <em>Religion and Congress: The Intersection of Faith and Politics</em>
+      [<a href="/publication/journal-article/catholic-senators/">Read</a>]
     </p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
     <h3>Works in Progress</h3>
     <p>
-      - “God in the Inbox: Religious Rhetoric in Congressional Constituent Communication” (with Alena V.)  
-      - “Escalation from Within: Civil-Military Conflict and International Crisis Dynamics” (with [Coauthor])
+      - The Christian Right: What Everyone Needs to Know (with Mark Rozell and Clyde Wilcox)  
+      - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with Georgios Zacharias)
+      - “The State of NCAA Student Athletes' Voting, Civi Engagment, and Community Leadership” (with Cammie Jo Bolin)
+      - “God and War on Capitol Hill” (with Andrew Kenealy)
     </p>
     <p>
       Abstracts and drafts available upon request.

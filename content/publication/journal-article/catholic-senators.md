@@ -1,0 +1,44 @@
+---
+title: "Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted Kennedy"
+authors:
+- admin
+- Thomas J. Carty
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: ""
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["chapter-book"]
+
+# Publication name and optional abbreviated publication name.
+publication: "In *Religion and Congress: The Intersection of Faith and Politics*, edited by David A. Dulio and Colton C. Campbell"
+
+#abstract: 
+
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Congress
+- Religion and Politics
+- Policy
+featured: true
+
+# links:
+- name: Custom Link
+  url: https://www.rienner.com/title/Religion_and_Congress_The_Intersection_of_Faith_and_Politics
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #focal_point: ""
+  #preview_only: false
