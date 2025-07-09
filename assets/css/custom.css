@@ -5,4 +5,7 @@
 .page-title-container {
   justify-content: flex-start !important;
 }
-
+/* Force Publications page title container to left-align */
+.max-w-prose.flex.justify-center {
+  justify-content: flex-start !important;
+}
