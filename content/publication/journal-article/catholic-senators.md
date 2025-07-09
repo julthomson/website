@@ -32,9 +32,11 @@ tags:
 featured: true
 
 # links:
-- name: Custom Link
-  url: https://www.rienner.com/title/Religion_and_Congress_The_Intersection_of_Faith_and_Politics
-
+ - name: "View Edited Volume Here"
+  url: "https://www.rienner.com/title/Religion_and_Congress_The_Intersection_of_Faith_and_Politics"
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SNSUMU'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
