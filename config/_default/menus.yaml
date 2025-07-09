@@ -13,9 +13,9 @@ main:
   - name: Research
     url: research/
     weight: 30
+    hasChildren: true
   - name: "Publications"
     url: "/publications"
-    parent: "Research"
     weight: 40
   #- name: Teaching
     #url: teaching/
