@@ -18,10 +18,7 @@ Welcome to my research page!
   <div style="flex: 1; min-width: 250px;">
     <h3>Dissertation</h3>
     <p>
-      [More on this project coming soon.]
-    </p>
-    <p>
-      [More on this project coming soon.]
+      Currently working on my website!
     </p>
   </div>
 
@@ -33,7 +30,7 @@ Welcome to my research page!
       [<a href="/publication/journal-article/mike-johnson/">Read</a>]
     </p>
     <p>
-      <strong>“Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted Kennedy” (with Thomas Carty) <br>
+      <strong>“Catholic Senators and Abortion Politics: The Cases of Joe Biden and Ted Kennedy”</strong> (with Thomas Carty) <br>
       In <em>Religion and Congress: The Intersection of Faith and Politics</em>
       [<a href="/publication/journal-article/catholic-senators/">Read</a>]
     </p>
@@ -43,8 +40,13 @@ Welcome to my research page!
     <h3>Works in Progress</h3>
     <p>
       - The Christian Right: What Everyone Needs to Know (with Mark Rozell and Clyde Wilcox)  
+    </p>
+    <p>
       - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with Georgios Zacharias)
+    </p>
+    <p>  
       - “The State of NCAA Student Athletes' Voting, Civi Engagment, and Community Leadership” (with Cammie Jo Bolin)
+    </p>  
       - “God and War on Capitol Hill” (with Andrew Kenealy)
     </p>
     <p>
