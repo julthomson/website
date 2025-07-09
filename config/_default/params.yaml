@@ -9,7 +9,7 @@ appearance:
   color: teal
 
 font:
-  font_size: m
+  font_size: s
 
 # SEO
 marketing:
