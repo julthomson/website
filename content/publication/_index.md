@@ -1,12 +1,16 @@
 ---
-title: Publications
-cms_exclude: true
+title: "Research"
+type: "page"
+draft: false
+layout: "blank"
+reading_time: false
+share: false
+pager: false
+backlinks: false
+show_date: false
+backlinks: false
 
 # View.
 view: citation
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
