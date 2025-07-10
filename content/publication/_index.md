@@ -2,7 +2,7 @@
 title: "Publications"
 type: "page"
 draft: false
-layout: "blank"
+layout: "page"
 reading_time: false
 share: false
 pager: false
