@@ -18,7 +18,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: 'In *Religion and Congress: the intersection of faith and politics*, edited by David A. Dulio and Colton C. Campbell'
 
-abstract: Examines the complex relationship between faith and politics in the US Congress, focusing on its historical foundations, contemporary congressional behavior,and policy outcomes.
+abstract: This chapter examines the post-1980 realignment of Catholic Democratic senators on abortion through the case studies of Edward Kennedy and Joseph Biden. Drawing on their contrasting backgrounds and political trajectories, it argues that both senators shifted from pro-life to pro-choice positions in response to evolving partisan pressures, particularly the Democratic Party’s embrace of abortion rights in 1980. While Kennedy’s transformation was shaped by presidential ambition and a health care-centered policy vision, Biden’s shift reflected a slower, pragmatic adaptation rooted in his working-class Catholic identity. The chapter situates these developments within broader institutional and ideological changes, highlighting how partisan alignment increasingly eclipsed religious conviction in shaping legislative behavior on abortion.
 
 # Display this page in a list of Featured pages?
 featured: false
