@@ -41,6 +41,7 @@ profiles:
     label: ORCHID
 
 interests:
+  - National Institutions
   - Religion and Politics
   - Identity Politics
   - Political Communication
