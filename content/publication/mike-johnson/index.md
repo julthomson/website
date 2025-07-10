@@ -30,7 +30,7 @@ abstract: 'Religious language plays a pivotal role in shaping political behavior
 featured: false
 
 # Links
-url_pdf: 'https://www.cambridge.org/core/journals/politics-and-religion/article/sacred-speech-analyzing-the-influence-of-congressional-leadership-on-religious-rhetoric/4E7571419074A9F222845287A023ADEF'
+url_pdf: 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4E7571419074A9F222845287A023ADEF/S1755048325100102a.pdf/sacred-speech-analyzing-the-influence-of-congressional-leadership-on-religious-rhetoric.pdf'
 url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SNSUMU'
 url_dataset: ''
 url_poster: ''
