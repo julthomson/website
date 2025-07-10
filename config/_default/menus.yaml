@@ -4,9 +4,21 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About Me
+  - name: Homepage
     url: /
     weight: 10
+    identifier: aboutme_parent
+
+ # NEW ITEM: This will be the first item in your About Me dropdown
+  - name: About Me # Or "About Me Overview", "Bio", etc.
+    url: /         # This links to your main About Me (homepage)
+    weight: 11     # Make it appear first in the dropdown
+    parent: aboutme_parent # Link to the 'About Me' parent
+
+  - name: Athletics
+    url: athletics/
+    weight: 12
+    parent: aboutme_parent
 
   - name: CV
     url: cv/
@@ -30,9 +42,7 @@ main:
     # Set the parent to the identifier of the Research item
     parent: research_parent # This links it to the 'Research' item
   
-  - name: Athletics
-    url: athletics/
-    weight: 50
+ 
 
 
   #- name: "Publications"
