@@ -18,9 +18,15 @@ main:
     # Add an identifier for the parent item
     identifier: research_parent # This needs to be a unique identifier.
 
+   # NEW ITEM: This will be the first item in your Research dropdown
+  - name: Research Overview # You can name this "Research Overview", "View All Research", etc.
+    url: research/    # This is the crucial part: it links to your main research page
+    weight: 31        # Make sure its weight is lower than Publications to appear first
+    parent: research_parent
+
   - name: Publications
     url: publication/
-    weight: 40
+    weight: 32
     # Set the parent to the identifier of the Research item
     parent: research_parent # This links it to the 'Research' item
   
