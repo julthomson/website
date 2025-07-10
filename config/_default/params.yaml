@@ -18,13 +18,8 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Julianna J. Thomson Personal Website'
-    #twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: 'G-7M08GWK835'
   verification:
     google: ''
     baidu: ''
