@@ -7,8 +7,6 @@
 appearance:
   mode: system
   color: teal
-
-font:
   font_size: xs
 
 # SEO
