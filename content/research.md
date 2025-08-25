@@ -30,7 +30,7 @@ In an era of significant religious disaffiliation in America, the enduring and n
     - "Religious Language and U.S. Presidential Wartime Leadership"
   </p>
   <p>
-    - “Christian Nationalism in Congressional Communication in the Twenty-First Century” (with <a href="https://www.cammiejobolin.com/">Cammie Jo Bolin</a> and <a href="https://www.linkedin.com/in/alenasmith/">Alena Smith</a>)
+    - “Christian Nationalism in Congressional Communication in the Twenty-First Century” (with <a href="https://www.cammiejobolin.com/">Cammie Jo Bolin</a> and <a href="https://www.alenarsmith.com/home">Alena Smith</a>)
   </p>
   <p>
     - “The State of NCAA Student Athletes' Voting, Civic Engagement, and Community Leadership” (with <a href="https://www.cammiejobolin.com/">Cammie Jo Bolin</a>)
