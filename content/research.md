@@ -27,10 +27,16 @@ In an era of significant religious disaffiliation in America, the enduring and n
     - The Christian Right: What Everyone Needs to Know (with <a href="https://markrozell.gmu.edu/">Mark Rozell</a> and <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014Rd1RAAS/clyde-clyde-wilcox">Clyde Wilcox</a>)
   </p>
   <p>
-    - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with <a href="https://www.researchgate.net/profile/Georgios-Zacharias-3">Georgios Zacharias</a>)
+    - "Religious Language and U.S. Presidential Wartime Leadership"
+  </p>
+  <p>
+    - “Christian Nationalism in Congressional Communication in the Twenty-First Century” (with <a href="https://www.cammiejobolin.com/">Cammie Jo Bolin</a> and <a href="https://www.linkedin.com/in/alenasmith/">Alena Smith</a>)
   </p>
   <p>
     - “The State of NCAA Student Athletes' Voting, Civic Engagement, and Community Leadership” (with <a href="https://www.cammiejobolin.com/">Cammie Jo Bolin</a>)
+  </p>
+  <p>
+    - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with <a href="https://www.researchgate.net/profile/Georgios-Zacharias-3">Georgios Zacharias</a>)
   </p>
   <p>
     - “God and War on Capitol Hill” (with <a href="https://sites.google.com/view/andrewkenealy/about">Andrew Kenealy</a>)
