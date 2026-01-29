@@ -40,9 +40,6 @@ In an era of significant religious disaffiliation in America, the enduring and n
   <p>
     - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with <a href="https://www.researchgate.net/profile/Georgios-Zacharias-3">Georgios Zacharias</a>)
   </p>
-  <p>
-    - “God and War on Capitol Hill” (with <a href="https://sites.google.com/view/andrewkenealy/about">Andrew Kenealy</a>)
-  </p>
 </div>
 
 
