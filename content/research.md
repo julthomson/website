@@ -37,7 +37,7 @@ In an era of significant religious disaffiliation in America, the enduring and n
   <p>
     - ‘“Making my Voice Matter”: Civic Engagement and Gendered Leadership among NCAA Student-Athletes” (with <a href="https://www.cammiejobolin.com/">Cammie Jo Bolin</a>)
   </p>
-   <p>
+  <p>
     - “How Proximity to National Parks Shapes Partisanship: Evidence from U.S. Counties, 2000-2024” (with <a href="https://schar.gmu.edu/profiles/sgaillio">Stephen Gailliot</a>)
   </p>
   <p>
