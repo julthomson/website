@@ -40,9 +40,6 @@ In an era of significant religious disaffiliation in America, the enduring and n
   <p>
     - “How Proximity to National Parks Shapes Partisanship: Evidence from U.S. Counties, 2000-2024” (with <a href="https://schar.gmu.edu/profiles/sgaillio">Stephen Gailliot</a>)
   </p>
-  <p>
-    - “Exploring the Mechanism of Crisis Escalation in Territorial Disputes: Lessons from the Greek-Turkish Crises” (with <a href="https://www.researchgate.net/profile/Georgios-Zacharias-3">Georgios Zacharias</a>)
-  </p>
 </div>
 
 
