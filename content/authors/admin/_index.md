@@ -57,7 +57,7 @@ education:
 
 ---
 
-## About Me
+## Hello!
 
 I am a fifth-year political science PhD candidate at the Schar School of Policy and Government at George Mason University. **I am on the 2026-2027 academic job market.**
 
