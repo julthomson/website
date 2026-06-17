@@ -60,9 +60,11 @@ education:
 
 ## About Me
 
-I am a fourth-year PhD candidate and Presidential Scholar in the Political Science program at the Schar School of Policy and Government at George Mason University. 
+Hi, welcome to my academic website. I am a fifth-year political science PhD candidate at the Schar School of Policy and Government at George Mason University. **I am on the 2026-2027 academic job market.**
 
-[My current research](/research/) focuses on three questions: Why do American political elites continue to use religious rhetoric in an era of declining religiosity? How do institutional roles, partisan incentives, and changing religious demographics structure the rhetorical strategies of the president and Congress? And what are the implications of religious language for policymaking, democratic representation, and public opinion? I use quantitative text analysis and survey experiments to answer these questions. My broader academic interests include identity politics, political communication, and computational methods. My research has been supported by George Mason University's [Office of the Provost Presidential Scholars progam](https://graduate.gmu.edu/faculty-staff/supporting-graduate-students/presidential-scholars) and the Schar School of Policy and Government [Daniel Druckman Fellowship](https://schar.gmu.edu/why-study-here/scholarships-and-funding/scholarships-for-masters-phd/daniel-druckman_fellowship). 
+I study religion and politics in the United States, focusing on the ways that political elites use religious language in their communication. I use quantitative methods, text analysis, and survey experiments in my research. You can view my publications and current research [here](/research/).
+
+My research has been supported by George Mason University's [Office of the Provost Presidential Scholars progam](https://graduate.gmu.edu/faculty-staff/supporting-graduate-students/presidential-scholars) and the Schar School of Policy and Government [Daniel Druckman Fellowship](https://schar.gmu.edu/why-study-here/scholarships-and-funding/scholarships-for-masters-phd/daniel-druckman_fellowship). 
 
 Prior to my doctoral studies, I earned a BA in Religion from Dartmouth College and an MBA from Villanova University. [I also competed as a Division I student-athlete](/athletics/). My athletic career instilled in me a belief in the power of teamwork, discipline, and resilience, and these qualities continue to shape my academic and professional pursuits. Outside of research and teaching, I am interested in academic administration and government relations. 
 
