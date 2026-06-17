@@ -55,17 +55,14 @@ education:
   - area: Bachelor of Arts, Religion
     institution: Dartmouth College
 
-#My work focuses on answering three questions: How does the distribution of public preferences impact the ability of leaders to engage in international bargaining? How do great powers navigate the relation between international orders and wars? Finally, what statistical tools can help political scientists manage data scarcity? I use formal and computational models to demonstrate the internal validity of my arguments and behavioral experiments and statistical methods to ensure their external validity.
 ---
 
 ## About Me
 
 Hi, welcome to my academic website. I am a fifth-year political science PhD candidate at the Schar School of Policy and Government at George Mason University. **I am on the 2026-2027 academic job market.**
 
-I study religion and politics in the United States, focusing on the ways that political elites use religious language in their communication. I use quantitative methods, text analysis, and survey experiments in my research. You can view my publications and current research [here](/research/).
-
-My research has been supported by George Mason University's [Office of the Provost Presidential Scholars progam](https://graduate.gmu.edu/faculty-staff/supporting-graduate-students/presidential-scholars) and the Schar School of Policy and Government [Daniel Druckman Fellowship](https://schar.gmu.edu/why-study-here/scholarships-and-funding/scholarships-for-masters-phd/daniel-druckman_fellowship). 
+I study religion and politics in the United States, focusing on the ways that political elites use religious language in their communication. I use quantitative methods, text analysis, and survey experiments in my research. You can view my publications and current research [here](/research/). My research has been supported by George Mason University's [Office of the Provost Presidential Scholars progam](https://graduate.gmu.edu/faculty-staff/supporting-graduate-students/presidential-scholars) and the Schar School of Policy and Government [Daniel Druckman Fellowship](https://schar.gmu.edu/why-study-here/scholarships-and-funding/scholarships-for-masters-phd/daniel-druckman_fellowship). 
 
 Prior to my doctoral studies, I earned a BA in Religion from Dartmouth College and an MBA from Villanova University. [I also competed as a Division I student-athlete](/athletics/). My athletic career instilled in me a belief in the power of teamwork, discipline, and resilience, and these qualities continue to shape my academic and professional pursuits. Outside of research and teaching, I am interested in academic administration and government relations. 
 
-I love meeting new people and exchanging new ideas. If you'd like to chat about research, academia, athletics, or anything in between, feel free to reach out via email at jthomso4@gmu.edu. 
+I love meeting new people and exchanging new ideas. If you'd like to chat about research, academia, athletics, or anything in between, feel free to reach out via email at jthomso4[at]gmu[dot]edu. 
