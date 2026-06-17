@@ -56,9 +56,6 @@ education:
     institution: Dartmouth College
 
 ---
-
-## Hello!
-
 I am a fifth-year political science PhD candidate at the Schar School of Policy and Government at George Mason University. **I am on the 2026-2027 academic job market.**
 
 I study religion and politics in the United States, focusing on the ways that political elites use religious language in their communication. I use quantitative methods, text analysis, and survey experiments in [my research](/research/). My research has been supported by George Mason University's [Office of the Provost Presidential Scholars progam](https://graduate.gmu.edu/faculty-staff/supporting-graduate-students/presidential-scholars) and the Schar School of Policy and Government [Daniel Druckman Fellowship](https://schar.gmu.edu/why-study-here/scholarships-and-funding/scholarships-for-masters-phd/daniel-druckman_fellowship). 
