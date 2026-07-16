@@ -16,17 +16,16 @@ main:
     url: research/
     weight: 30
 
-  - name: Publications
-    url: publication/
-    weight: 40
-
   - name: Athletics
     url: athletics/
-    weight: 50
+    weight: 40
 
   
  
 
+#- name: Publications
+   # url: publication/
+    #weight: 40
 
 
   #- name: Teaching
