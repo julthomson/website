@@ -11,6 +11,8 @@ show_date: false
 backlinks: false
 font_size: xs
 ---
+<div class="research-page">
+  
 My research examines the intersection of American politics and religion, with a focus on how political elites use religious language. My dissertation explores the strategic use of religious rhetoric by U.S. presidents and members of Congress, arguing that elite religious communication is shaped by political context rather than employed uniformly. Across three essays, I examine how party leadership, international events, and patterns of American religiosity influence the use of religious language in political communication. A portion of this research has been published in *Politics and Religion* and receieved the Society for the Scientific Study of Religion's 2025 Best Student Paper Award. 
 
 Building on this work, I am collaborating on a project that measures Christian nationalist rhetoric in congressional communiation using computational text analysis. By developing a novel dictionary of Christian nationalist language and applying it to two decades of congressional communication, my co-authors and I examine how this rhetoric has evolved over time. 
