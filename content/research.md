@@ -19,9 +19,7 @@ Building on this work, I am collaborating on a project that measures Christian n
 
 Beyond political communication, I am co-authoring a book on the Christian Right in American politics with Mark Rozell and Clyde Wilcox (under contract with Oxford University Press). The book traces the movement's influence on American politics from the local to the national level over the past fifty years. My broader research on religion and politics includes a chapter on Democratic Catholic senators and abortion politics in *Religion and Congress: The Intersection of Faith and Politics* (Lynne Rienner Publishers, 2025), as well as an article on religious freedom around the world. 
 
-An additional line of research explores civic engagement and political ambition among collegiate student-athletes. Drawing on my experience as an NCAA student-athlete, I investigate whether athletic participation can serve as a pathwawy for reducing the gender gap in political ambition and participation. 
-
-A list of my publications and ongoing research projects is available below. 
+An additional line of research explores civic engagement and political ambition among collegiate student-athletes. Drawing on my experience as an NCAA student-athlete, I investigate whether athletic participation can serve as a pathway for reducing the gender gap in political ambition. 
 
 **Dissertation**
 - Title: Sacred Speech in a Secularizing Society: Three Essays on Religious Rhetoric
