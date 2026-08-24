@@ -46,12 +46,13 @@ An additional line of research explores civic engagement and political ambition 
 - [Smith, Alena, and Julianna J. Thomson. 2025. “The Johnson Effect: How the New Speaker Sparked a Religious Rhetoric Surge.” Religion in Public (blog).](https://religioninpublic.blog/2025/07/14/the-johnson-effect-how-the-new-speaker-sparked-a-religious-rhetoric-surge/.)
 
 **Under Review:**
-- “How Proximity to National Parks Shapes Voting Behavior: Evidence from U.S. Counties, 2000-2024” with Stephen Gailliot (George Mason University)
-- “Measuring Christian Nationalist Rhetoric in Congress: Evidence from Legislator E-Newsletters” with Cammie Jo Bolin (University at Albany) and Alena Smith (Stanford University) 
+- “Measuring Christian Nationalist Rhetoric in Congress: Evidence from Legislator E-Newsletters” with Cammie Jo Bolin (University at Albany) and Alena Smith (Stanford University)
+- “Youth Sports, Gender, and Pathways to Political Involvement” with Amanda Friesen (Western University), Noah Vanderhoeven (Western University), and Lachlan Fisher (Western University)
 
 **In Progress:**
 - _The Christian Right: What Everyone Needs to Know_ with Mark J. Rozell (George Mason University) and Clyde Wilcox (Georgetown University) - Under contract with Oxford University Press.
 - “Gendered Differences in Leadership and Political Ambition Among NCAA Student-Athletes” with Cammie Jo Bolin (University at Albany)
 - “Religion and War Termination” with Stephen Gailliot (George Mason University)
+- “How Proximity to National Parks Shapes Voting Behavior: Evidence from U.S. Counties, 2000-2024” with Stephen Gailliot (George Mason University)
 </div>
 
