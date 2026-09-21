@@ -15,7 +15,7 @@ font_size: xs
 
 I study how social identities shape political behavior, political communication, and democratic representation. 
 
-Currently, my work focuses on the intersection of American politics and religion. My dissertation explores the strategic use of religious rhetoric by U.S. presidents and members of Congress, arguing that elite religious communication is shaped by political context rather than employed uniformly. Across three essays, I examine how party leadership, international events, and patterns of American religiosity influence the use of religious language in political communication. A portion of this research has been published in *Politics and Religion* and receieved the Society for the Scientific Study of Religion's 2025 Best Student Paper Award. 
+Currently, my work focuses on the intersection of American politics and religion. My dissertation explores the strategic use of religious rhetoric by U.S. presidents and members of Congress, arguing that elite religious communication is shaped by political context rather than employed uniformly. Across three essays, I examine how party leadership, international events, and patterns of American religiosity influence the use of religious language in political communication. A portion of this research has been published in *Politics and Religion* and received the Society for the Scientific Study of Religion's 2025 Best Student Paper Award. 
 
 Building on this work, I am collaborating on a project that measures Christian nationalist rhetoric in congressional communiation using computational text analysis. By developing a novel dictionary of Christian nationalist language and applying it to two decades of congressional communication, my co-authors and I examine how this rhetoric has evolved over time. 
 
@@ -24,7 +24,7 @@ Beyond political communication, I am co-authoring a book on the Christian Right 
 An additional line of research explores civic engagement and political ambition among collegiate student-athletes. Drawing on my experience as an NCAA student-athlete, I investigate whether athletic participation can serve as a pathway for reducing the gender gap in political ambition. 
 
 **Dissertation**
-- Title: Sacred Speech in a Secularizing Society: Three Essays on Religious Rhetoric
+- Title: Sacred Speech in a Secularizing Society: Three Papers on Religious Rhetoric
 - Committee: [Mark Rozell](https://markrozell.gmu.edu/), [James Pfiffner](https://pfiffner.gmu.edu/), [Robert McGrath](https://mcgrath.gmu.edu/), [Kendrick Kuo](https://kendrickkuo.com/)
 
 **Book Project**
