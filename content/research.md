@@ -54,5 +54,7 @@ An additional line of research explores civic engagement and political ambition 
 - _The Christian Right: What Everyone Needs to Know_ with Mark J. Rozell (George Mason University) and Clyde Wilcox (Georgetown University) - Under contract with Oxford University Press.
 - “Religion and War Termination” with Stephen Gailliot (George Mason University)
 - “How Proximity to National Parks Shapes Voting Behavior: Evidence from U.S. Counties, 2000-2024” with Stephen Gailliot (George Mason University)
+- “Homestyle homilies? How Legislator and District Religiosity Shape Congressional Communication” with Cammie
+Jo Bolin (University at Albany)
 </div>
 
