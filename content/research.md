@@ -42,6 +42,7 @@ An additional line of research explores civic engagement and political ambition 
   - Book review: [_Perspectives on Politics_](https://doi.org/10.1017/S1537592726104551)
  
 **Public Scholarship**
+- [Bolin, Cammie Jo, and Julianna J. Thomson. 2026. “The 2026 Midterms: How the Democrats overcame their “God problem”’ London School of Economics United States Centre (blog).](https://blogs.lse.ac.uk/usappblog/2026/11/19/democrats-religion-midterm-elections/)
 - [Smith, Alena, and Julianna J. Thomson. 2025. “The 2026 Midterms: Speaker Mike Johnson’s Religious Rhetoric Will Continue to Shape How Republicans Speak to Their Constituents.” London School of Economics United States Centre (blog).](https://blogs.lse.ac.uk/usappblog/2025/07/30/the-2026-midterms-speaker-mike-johnsons-religious-rhetoric-will-continue-to-shape-how-republicans-speak-to-their-constituents/)
 - [Smith, Alena, and Julianna J. Thomson. 2025. “The Johnson Effect: How the New Speaker Sparked a Religious Rhetoric Surge.” Religion in Public (blog).](https://religioninpublic.blog/2025/07/14/the-johnson-effect-how-the-new-speaker-sparked-a-religious-rhetoric-surge/.)
 
